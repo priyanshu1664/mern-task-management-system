@@ -167,5 +167,3 @@ This project is licensed under the MIT License.
 
 **Priyanshu Singh**
 [GitHub](https://github.com/priyanshu1664) | [LinkedIn](https://linkedin.com/in/priyanshu1664)
-
-# mern-task-management-system
